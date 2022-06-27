@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Marcelo Fernandes | Software Engineer</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    </head>
+    <body onclick="$('commandline').focus();">
+        <div id="terminal">
+            <a id="prefix"></a>
+        </div>
+        <div id="commandbox" onclick="$('commandline').focus();">
+            <textarea
+                type="text"
+                id="commandline"
+                onkeyup="typeIt(this, event)"
+                onkeydown="typeIt(this, event)"
+                onkeypress="typeIt(this, event)"
+                autofocus
+            ></textarea>
+        <div id="liner">
+            <span id="typer"></span>
+            <b class="cursor" id="cursor"></b>
+        </div>
+        </div>
+        <script src="js/caret.js"></script>
+        <script src="js/commands.js"></script>
+        <script src="js/main.js"></script>
+        
+    </body>
+</html>
