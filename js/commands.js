@@ -30,6 +30,6 @@ about = [
     "<br>",
     "I am a very easygoing person. I'm flexible and accomodating to most situations and personalities. Curiosity is probably my defining trait, as I tend to throw myself",
     "at very diverse subjects - with varying degrees of success, of course. Outside of work I enjoy music, math and all sorts of pseudo-intellectual nonsense.",
-    "I've been trying to get into voluntary work so if you have a proposal (or otherwise want to hear from me) shoot me an <span onclick='fillCommand(`email`);' class='command'>email</span>!"
+    "I've been trying to get into volunteering so if you have a proposal (or otherwise want to hear from me) shoot me an <span onclick='fillCommand(`email`);' class='command'>email</span>!"
 
 ]
