@@ -15,12 +15,12 @@ help = [
     "<br>",
   ];
   
-  
+
 
 about = [
     "Howdy, partner. 🤠",
     "<br>",
-    "My name is Marcelo and I am a software engineer.",
+    "My name is Marcelo and I am a software engineer, currently working at Amazon.",
     "After I graduated in electrical engineering @ <a class='command' href='https://www.unicamp.br/unicamp/'> UNICAMP</a>, I started working with web development and never looked back.",
     "Even though I am currently specializing in backend development in Java and Spring/Spring Boot, I have a very diverse work experience",
     "including front-end with AngularJS/Angular 2+, native Android, Xamarin and automated testing. I have been fortunate enough to work at",
@@ -30,6 +30,6 @@ about = [
     "<br>",
     "I am a very easygoing person. I'm flexible and accomodating to most situations and personalities. Curiosity is probably my defining trait, as I tend to throw myself",
     "at very diverse subjects - with varying degrees of success, of course. Outside of work I enjoy music, math and all sorts of pseudo-intellectual nonsense.",
-    "I've been trying to get into volunteering so if you have a proposal (or otherwise want to hear from me) shoot me an <span onclick='fillCommand(`email`);' class='command'>email</span>!"
+    "Feel free to shoot me an <span onclick='fillCommand(`email`);' class='command'>email</span>!"
 
 ]
