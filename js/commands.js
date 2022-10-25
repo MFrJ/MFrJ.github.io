@@ -21,7 +21,7 @@ about = [
     "Howdy, partner. 🤠",
     "<br>",
     "My name is Marcelo and I am a software engineer, currently working at Amazon.",
-    "After I graduated in electrical engineering @ <a class='command' href='https://www.unicamp.br/unicamp/'> UNICAMP</a>, I started working with web development and never looked back.",
+    "After I graduated in electrical engineering from <a class='command' href='https://www.unicamp.br/unicamp/'> UNICAMP</a>, I started working with web development and never looked back.",
     "Even though I am currently specializing in backend development in Java and Spring/Spring Boot, I have a very diverse work experience",
     "including front-end with AngularJS/Angular 2+, native Android, Xamarin and automated testing. I have been fortunate enough to work at",
     "companies with very different business models and fields of work, which allows me to have unique perspectives when solving technical problems.",
