@@ -19,7 +19,7 @@ help = [
 
 about = [
     "Software engineer, currently at Amazon.",
-    "6+ of development experience, specializing in back end.",
+    "6+ of development experience.",
     "<br>",
     "Feel free to shoot me an <span onclick='fillCommand(`email`);' class='command'>email</span>!"
 ]
